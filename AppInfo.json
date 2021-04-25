@@ -1,0 +1,133 @@
+{
+
+  "Explorerplusplus": [
+    {
+      "Appname": "Explorerplusplus",
+      "AppDescription": "ExplorerPlusPlus is an app designed by someone",
+      "AppFolder": "False",
+      "Folder": "",
+      "AppLink": "OnedriveMain:CF/ExpZorter.exe",
+      "AppExe": "ExpZorter.exe",
+      "GFNStatus": "?",
+      "AppImage": "file_explorer_96px.png",
+      "DownloadServer": "Main"
+    }
+  ],
+  "ProcessHacker": [
+    {
+      "Appname": "ProcessHacker",
+      "AppDescription": "ProcessHacker is an app designed by someone",
+      "AppFolder": "False",
+      "Folder": "",
+      "AppLink": "OnedriveMain:CF/xhack.exe",
+      "AppExe": "xhack.exe",
+      "GFNStatus": "Works",
+      "AppImage": "Proc.png",
+      "DownloadServer": "Main"
+    }
+  ],
+  "PowerShell": [
+    {
+      "Appname": "PowerShell",
+      "AppDescription": "PowerShell is an app designed by someone",
+      "AppFolder": "True",
+      "Folder": "PowerShell",
+      "AppExe": "PowerShell/FireShell.exe",
+      "AppLink": "OnedriveMain:CF/PowerShell",
+      "GFNStatus": "Works",
+      "AppImage": "powershell_96px.png",
+      "DownloadServer": "Main"
+    }
+  ],
+  "ZortosUnzipper": [
+    {
+      "Appname": "ZortosUnzipper",
+      "AppDescription": "ZortosUnzipper is an app designed by Zortos Gud/Bad software maker",
+      "AppExe": "ZortosUnzipper.exe",
+      "AppFolder": "False",
+      "AppLink": "OnedriveMain:CF/ZortosUnzipper.exe",
+      "GFNStatus": "Works",
+      "AppImage": "ZortosUnzipper.png",
+      "DownloadServer": "Main"
+
+    }
+  ],
+  "Notepad2": [
+    {
+      "Appname": "Notepad2",
+      "AppDescription": "Notepad2 is an app designed by someone",
+      "AppFolder": "False",
+      "Folder": "",
+      "AppExe": "Lovepad2.exe",
+      "AppLink": "OnedriveMain:CF/LovePad2.exe",
+      "GFNStatus": "Works",
+      "AppImage": "False",
+      "DownloadServer": "Main"
+    }
+  ],
+  "Firefox": [
+    {
+      "Appname": "Firefox",
+      "AppDescription": "Firefox is an app designed by Some Company",
+      "AppFolder": "True",
+      "Folder": "Firefox",
+      "AppExe": "Firefox/TikTokISSHIT.exe",
+      "AppLink": "OnedriveMain:CF/Firefox",
+      "GFNStatus": "Works",
+      "AppImage": "False",
+      "DownloadServer": "Main"
+    }
+  ],
+  "Waterfox": [
+    {
+      "Appname": "Waterfox",
+      "AppDescription": "Waterfox is an app designed by Some team on github",
+      "AppFolder": "False",
+      "Folder": "WaterFox",
+      "AppExe": "WaterFox/Letsdotheoddesy.exe",
+      "AppLink": "OnedriveMain:CF/WaterFox",
+      "GFNStatus": "Works",
+      "AppImage": "False",
+      "DownloadServer": "Main"
+    }
+  ],
+  "Brave": [
+    {
+      "Appname": "Brave",
+      "AppDescription": "Brave Browser is an app designed by a company ",
+      "AppFolder": "True",
+      "Folder": "Brave-Browser",
+      "AppExe": "Brave-Browser/Application/OMGZORTOSBRAVE.exe",
+      "AppLink": "OnedriveMain:CF/Brave-Browser",
+      "GFNStatus": "?",
+      "AppImage": "False",
+      "DownloadServer": "Main"
+    }
+  ],
+  "Wexond": [
+    {
+      "Appname": "Wexond",
+      "AppDescription": "Wexond is an app designed by a person on github ",
+      "AppFolder": "True",
+      "Folder": "Wexond",
+      "AppExe": "Wexond/Wexondo.exe",
+      "AppLink": "OnedriveMain:CF/Wexond",
+      "GFNStatus": "?",
+      "AppImage": "False",
+      "DownloadServer": "Main"
+    }
+  ],
+  "GIMP": [
+    {
+      "Appname": "GIMP",
+      "AppDescription": "GIMP is an app designed by a Company ",
+      "AppFolder": "True",
+      "Folder": "Wexond",
+      "AppExe": "Wexond/Wexondo.exe",
+      "AppLink": "OnedriveMain:CF/Wexond",
+      "GFNStatus": "?",
+      "AppImage": "False",
+      "DownloadServer": "Main"
+    }
+  ]
+}
