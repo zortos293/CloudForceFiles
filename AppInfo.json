@@ -1,5 +1,5 @@
 {
-
+  "ExeVersion":"V1.0",
   "Explorerplusplus": [
     {
       "Appname": "Explorerplusplus",
@@ -106,7 +106,7 @@
   ],
   "Wexond": [
     {
-      "Appname": "Wexond",
+      "Appname": "Wexond",  
       "AppDescription": "Wexond is an app designed by a person on github ",
       "AppFolder": "True",
       "Folder": "Wexond",
