@@ -1,0 +1,42 @@
+{
+  "GTAV": [
+    {
+      "GameName": "Grand Threft Auto V",
+      "Folder": "Grand.Theft.Auto.V\\",
+      "AppLink": "OnedriveMain:GAYMES/Grand.Theft.Auto.V/",
+      "AppExe": "Grand.Theft.Auto.V\\Grand Theft Auto V\\GTA5.exe",
+      "GFNStatus": "?",
+      "DownloadServer": "Main"
+    }
+  ],
+  "GTAIV": [
+    {
+      "GameName": "Grand Threft Auto IV",
+      "Folder": "GTAIV\\",
+      "AppLink": "OnedriveMain:GAYMES/GTAIV/",
+      "AppExe": "GTAIV\\GTAIV.exe",
+      "GFNStatus": "?",
+      "DownloadServer": "Main"
+    }
+  ],
+  "GTA3": [
+    {
+      "GameName": "Grand Threft Auto III",
+      "Folder": "GTA III\\",
+      "AppLink": "OnedriveMain:GAYMES/GTA III/",
+      "AppExe": "GTA III\\gta3.exe",
+      "GFNStatus": "?",
+      "DownloadServer": "Main"
+    }
+  ],
+  "GTAVice": [
+    {
+      "GameName": "Grand Theft Auto Vice City",
+      "Folder": "Grand Theft Auto Vice City\\",
+      "AppLink": "OnedriveMain:GAYMES/Grand Theft Auto Vice City/",
+      "AppExe": "Grand Theft Auto Vice City\\gta-vc.exe",
+      "GFNStatus": "?",
+      "DownloadServer": "Main"
+    }
+  ]
+}
