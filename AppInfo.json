@@ -130,6 +130,19 @@
       "DownloadServer": "Main"
     }
   ],
+  "ZortosExplorerV2": [
+    {
+      "Appname": "ZortosExplorerV2",
+      "AppDescription": "ZortosExplorerV2 is new version of the old shitty one made by Zortos",
+      "AppFolder": "True",
+      "Folder": "ZortosExplorerV2",
+      "AppLink": "OnedriveMain:CF/ZortosExplorerV2",
+      "AppExe": "ZortosExplorerV2/ZortosExplorerV2.exe",
+      "GFNStatus": "Works",
+      "AppImage": "False",
+      "DownloadServer": "Main"
+    }
+  ],
   "Shadow": [
     {
       "Appname": "Shadow",
