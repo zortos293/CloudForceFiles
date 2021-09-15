@@ -43,6 +43,41 @@
       "App Exe": ""
     },
     {
+      "App Name": "Ffmpeg",
+      "App Icon": "https://cdn.iconscout.com/icon/free/png-128/ffmpeg-569477.png",
+      "App Link": "https://store1.gofile.io/download/fe9c8f40-586d-4db8-b278-e920fd7b81f7/ffmpeg.zip",
+      "Category": "ConsoleAPP",
+      "App Exe": "ffmpeg\\bin\\ffmpeg.exe"
+    },
+    {
+      "App Name": "Friday Night Funkin",
+      "App Icon": "https://icons.iconarchive.com/icons/carlosjj/mozilla/256/Firefox-icon.png",
+      "App Link": "https://store1.gofile.io/download/8e722313-b10a-4c35-a399-a663b2181e11/funkin-windows-64bit.zip",
+      "Category": "Games",
+      "App Exe": "funkin-windows-64bit\\Funkin.exe"
+    },
+    {
+      "App Name": "Geforce Now",
+      "App Icon": "https://cdn.iconscout.com/icon/free/png-256/nvidia-gerforce-569185.png",
+      "App Link": "https://store7.gofile.io/download/3a5798ab-abb5-4c61-8bc8-1385b0ae1d3b/GeForceNOW.zip",
+      "Category": "Apps",
+      "App Exe": "GeForceNOW\\CEF\\GeForceNOW.exe"
+    },
+    {
+      "App Name": "Minecraft",
+      "App Icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic3.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F04%2FMinecraft-RTX.jpg&f=1&nofb=1",
+      "App Link": "https://store1.gofile.io/download/037cc5fb-e64e-493c-ba48-fc867b267190/minecraft.zip",
+      "Category": "Browsers",
+      "App Exe": ""
+    },
+    {
+      "App Name": "FireFox",
+      "App Icon": "https://icons.iconarchive.com/icons/carlosjj/mozilla/256/Firefox-icon.png",
+      "App Link": "https://store7.gofile.io/download/cf814c49-b6d5-4305-a1a2-9b832c8fc2df/Firefox.zip",
+      "Category": "Browsers",
+      "App Exe": ""
+    },
+    {
       "App Name": "FireFox",
       "App Icon": "https://icons.iconarchive.com/icons/carlosjj/mozilla/256/Firefox-icon.png",
       "App Link": "https://store7.gofile.io/download/cf814c49-b6d5-4305-a1a2-9b832c8fc2df/Firefox.zip",
