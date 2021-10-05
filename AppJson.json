@@ -5,84 +5,84 @@
       "App Icon": "https://www.macobserver.com/wp-content/uploads/2018/05/7zip-security-logo-2.png",
       "App Link": "https://store7.gofile.io/download/14093c64-27d0-418d-8cd0-32bf3482a22d/7-Zip.zip",
       "Category": "Apps",
-      "App Exe": "7-Zip\\7zFM.exe"
+      "App Launch": "7-Zip\\7zFM.exe"
     },
     {
       "App Name": "AnyDesk",
       "App Icon": "https://anydesk.com/_static/img/favicon/anydesk_icon.png",
       "App Link": "https://store7.gofile.io/download/7b921895-bb7a-45c9-8424-ccc54fe81fdb/AnyDesk.exe",
       "Category": "Apps",
-      "App Exe": "AnyDesk.exe"
+      "App Launch": "AnyDesk.exe"
     },
     {
       "App Name": "Brave",
       "App Icon": "http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/brave-icon.png",
       "App Link": "https://store7.gofile.io/download/cac26df1-4300-4da4-889b-608ef012b43a/Brave.zip",
       "Category": "Browsers",
-      "App Exe": "BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe"
+      "App Launch": "BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe"
     },
     {
       "App Name": "Battle.Net",
       "App Icon": "https://www.macupdate.com/images/icons512/60504.png",
       "App Link": "https://store7.gofile.io/download/39888d43-7cd4-4a75-8cd5-d8b4ad8f7c19/Battle.net.zip",
       "Category": "Battle.Net",
-      "App Exe": "Battle.net\\Battle.net.exe"
+      "App Launch": "Battle.net\\Battle.net.exe"
     },
     {
       "App Name": "Discord",
       "App Icon": "http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/discord-icon.png",
       "App Link": "https://store7.gofile.io/download/2c888afb-07a4-4cf5-893f-197478aafdd5/Discord.zip",
       "Category": "Apps",
-      "App Exe": ""
+      "App Launch": ""
     },
     {
       "App Name": "Epic Games",
       "App Icon": "https://www.riggingdojo.com/wp-content/uploads/2016/08/Epic-Games-Logo.svg_.png",
       "App Link": "https://store1.gofile.io/download/de050669-786a-49de-836f-42a15dff340f/Epic%20Games.zip",
       "Category": "Epic Games",
-      "App Exe": ""
+      "App Launch": ""
     },
     {
       "App Name": "Ffmpeg",
       "App Icon": "https://cdn.iconscout.com/icon/free/png-128/ffmpeg-569477.png",
       "App Link": "https://store1.gofile.io/download/fe9c8f40-586d-4db8-b278-e920fd7b81f7/ffmpeg.zip",
       "Category": "ConsoleAPP",
-      "App Exe": "ffmpeg\\bin\\ffmpeg.exe"
+      "App Launch": "ffmpeg\\bin\\ffmpeg.exe"
     },
     {
       "App Name": "Friday Night Funkin",
       "App Icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/60fbbc1c544a895285294af287c36db8.png",
       "App Link": "https://store1.gofile.io/download/8e722313-b10a-4c35-a399-a663b2181e11/funkin-windows-64bit.zip",
       "Category": "Games",
-      "App Exe": "funkin-windows-64bit\\Funkin.exe"
+      "App Launch": "funkin-windows-64bit\\Funkin.exe"
     },
     {
       "App Name": "Geforce Now",
       "App Icon": "https://cdn.iconscout.com/icon/free/png-256/nvidia-gerforce-569185.png",
       "App Link": "https://store7.gofile.io/download/3a5798ab-abb5-4c61-8bc8-1385b0ae1d3b/GeForceNOW.zip",
       "Category": "Apps",
-      "App Exe": "GeForceNOW\\CEF\\GeForceNOW.exe"
+      "App Launch": "GeForceNOW\\CEF\\GeForceNOW.exe"
     },
     {
       "App Name": "Minecraft",
       "App Icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic3.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F04%2FMinecraft-RTX.jpg&f=1&nofb=1",
       "App Link": "https://store1.gofile.io/download/037cc5fb-e64e-493c-ba48-fc867b267190/minecraft.zip",
       "Category": "Browsers",
-      "App Exe": ""
+      "App Launch": ""
     },
     {
       "App Name": "FireFox",
       "App Icon": "https://icons.iconarchive.com/icons/carlosjj/mozilla/256/Firefox-icon.png",
       "App Link": "https://store7.gofile.io/download/cf814c49-b6d5-4305-a1a2-9b832c8fc2df/Firefox.zip",
       "Category": "Browsers",
-      "App Exe": ""
+      "App Launch": ""
     },
     {
       "App Name": "FireFox",
       "App Icon": "https://icons.iconarchive.com/icons/carlosjj/mozilla/256/Firefox-icon.png",
       "App Link": "https://store7.gofile.io/download/cf814c49-b6d5-4305-a1a2-9b832c8fc2df/Firefox.zip",
       "Category": "Browsers",
-      "App Exe": ""
+      "App Launch": ""
     }
   ]
 }
