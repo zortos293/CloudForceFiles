@@ -3,58 +3,114 @@
     {
       "App Name": "7-Zip",
       "App Icon": "https://www.macobserver.com/wp-content/uploads/2018/05/7zip-security-logo-2.png",
-      "App Link": "https://store7.gofile.io/download/14093c64-27d0-418d-8cd0-32bf3482a22d/7-Zip.zip",
+      "App Link": "https://zortosdev.tech/Apps/7-Zip.zip",
       "Category": "Apps",
       "App Launch": "7-Zip\\7zFM.exe"
     },
     {
+      "App Name": "AIMP",
+      "App Icon": "https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Aimp-icon.png",
+      "App Link": "https://zortosdev.tech/Apps/AIMPPortable_5.0.2338.paf.zip",
+      "Category": "Apps",
+      "App Launch": "AIMPPortable_5.0.2338.paf\\App\\AIMP\\AIMP.exe"
+    },
+    {
+      "App Name": "AkelPad",
+      "App Icon": "https://alternative.me/media/256/akelpad-icon-ge40bddz2nalevdm-c.png",
+      "App Link": "https://zortosdev.tech/Apps/AkelPadPortable_4.9.8.paf.zip",
+      "Category": "Apps",
+      "App Launch": "AkelPadPortable_4.9.8.paf\\App\\AkelPad\\AkelPad.exe"
+    },
+    {
+      "App Name": "Audacity",
+      "App Icon": "https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Audacity-icon.png",
+      "App Link": "https://zortosdev.tech/Apps/AudacityPortable_3.0.5.paf.zip",
+      "Category": "Apps",
+      "App Launch": "AudacityPortable_3.0.5.paf\\App\\Audacity\\Audacity.exe"
+    },
+    {
+      "App Name": "Autoruns",
+      "App Icon": "https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Run-icon.png",
+      "App Link": "https://zortosdev.tech/Apps/AutorunsPortable.zip",
+      "Category": "Apps",
+      "App Launch": "AutorunsPortable\\App\\Autoruns\\Autoruns.exe"
+    },
+    {
       "App Name": "AnyDesk",
       "App Icon": "https://anydesk.com/_static/img/favicon/anydesk_icon.png",
-      "App Link": "https://store7.gofile.io/download/7b921895-bb7a-45c9-8424-ccc54fe81fdb/AnyDesk.exe",
+      "App Link": "https://zortosdev.tech/Apps/AnyDesk.exe",
       "Category": "Apps",
       "App Launch": "AnyDesk.exe"
     },
     {
       "App Name": "Brave",
       "App Icon": "http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/brave-icon.png",
-      "App Link": "https://store7.gofile.io/download/cac26df1-4300-4da4-889b-608ef012b43a/Brave.zip",
+      "App Link": "https://zortosdev.tech/Apps/Brave.zip",
       "Category": "Browsers",
       "App Launch": "BraveSoftware\\Brave-Browser-Nightly\\Application\\brave.exe"
     },
     {
+      "App Name": "Blender",
+      "App Icon": "https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Blender-icon.png",
+      "App Link": "https://zortosdev.tech/Apps/BlenderPortable_2.93.5_Rev_2.paf.zip",
+      "Category": "Apps",
+      "App Launch": "AutorunsPortable\\App\\Autoruns\\Autoruns.exe"
+    },
+    {
       "App Name": "Battle.Net",
       "App Icon": "https://www.macupdate.com/images/icons512/60504.png",
-      "App Link": "https://store7.gofile.io/download/39888d43-7cd4-4a75-8cd5-d8b4ad8f7c19/Battle.net.zip",
+      "App Link": "https://zortosdev.tech/Apps/Battle.net.zip",
       "Category": "Battle.Net",
       "App Launch": "Battle.net\\Battle.net.exe"
     },
     {
       "App Name": "Discord",
       "App Icon": "http://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/discord-icon.png",
-      "App Link": "https://store7.gofile.io/download/2c888afb-07a4-4cf5-893f-197478aafdd5/Discord.zip",
+      "App Link": "https://zortosdev.tech/Apps/Discord.zip",
       "Category": "Apps",
       "App Launch": ""
     },
     {
+      "App Name": "CamStudio",
+      "App Icon": "https://icons.iconarchive.com/icons/dakirby309/windows-8-metro/128/Apps-Camstudio-Metro-icon.png",
+      "App Link": "https://zortosdev.tech/Apps/CamStudioPortable_2.7.4_English.paf.zip",
+      "Category": "Apps",
+      "App Launch": "CamStudioPortable_2.7.4_English.paf\\App\\CamStudio\\Recorder.exe"
+    },
+    {
+      "App Name": "Cpu-Z",
+      "App Icon": "https://www.cpuid.com/medias/files/goodies/cpu-z.png",
+      "App Link": "https://zortosdev.tech/Apps/CPU-ZPortable_1.97_English.paf.zip",
+      "Category": "Apps",
+      "App Launch": "CPU-ZPortable_1.97_English.paf\\App\\CPU-Z\\cpuz_x64.exe"
+    },
+    {
+      "App Name": "DTaskManager",
+      "App Icon": "https://www.kurulumyap.com/resimler/490/process-hacker-icon.jpg",
+      "App Link": "https://zortosdev.tech/Apps/DTaskManagerPortable_1.57.11.paf.zip",
+      "Category": "Apps",
+      "App Launch": "DTaskManagerPortable_1.57.11.paf\\App\\DTaskManager\\DTaskManager.exe"
+    },
+    {
+      "App Name": "Discord",
+      "App Icon": "https://happyland.games/wp-content/uploads/2019/04/Discord_Icon.png",
+      "App Link": "https://zortosdev.tech/Apps/Discord.zip",
+      "Category": "Apps",
+      "App Launch": "discord2\\discord-portable.exe"
+    },
+    {
       "App Name": "Epic Games",
       "App Icon": "https://www.riggingdojo.com/wp-content/uploads/2016/08/Epic-Games-Logo.svg_.png",
-      "App Link": "https://store1.gofile.io/download/de050669-786a-49de-836f-42a15dff340f/Epic%20Games.zip",
-      "Category": "Epic Games",
+      "App Link": "https://zortosdev.tech/Apps/Epic%20Games.zip",
+      "Category": "Games",
       "App Launch": ""
     },
     {
-      "App Name": "Ffmpeg",
-      "App Icon": "https://cdn.iconscout.com/icon/free/png-128/ffmpeg-569477.png",
-      "App Link": "https://store1.gofile.io/download/fe9c8f40-586d-4db8-b278-e920fd7b81f7/ffmpeg.zip",
-      "Category": "ConsoleAPP",
-      "App Launch": "ffmpeg\\bin\\ffmpeg.exe"
-    },
-    {
-      "App Name": "Friday Night Funkin",
-      "App Icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/60fbbc1c544a895285294af287c36db8.png",
-      "App Link": "https://store1.gofile.io/download/8e722313-b10a-4c35-a399-a663b2181e11/funkin-windows-64bit.zip",
-      "Category": "Games",
-      "App Launch": "funkin-windows-64bit\\Funkin.exe"
+      "App Name": "Falkon",
+      "App Icon": "https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/falkon-icon.png",
+      "App Link": "https://zortosdev.tech/Apps/FalkonPortable_3.1.0_Rev_2.paf.zip",
+      "Category": "Browsers",
+      "App Launch": "FalkonPortable_3.1.0_Rev_2.paf\\App\\Falkon\falkon.exe"
     },
     {
       "App Name": "Geforce Now",
